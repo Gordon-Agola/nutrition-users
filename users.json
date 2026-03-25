@@ -1,4 +1,18 @@
 [
-  { "Username": "user1", "Password": "1111", "IsActive": true },
-  { "Username": "user2", "Password": "2222", "IsActive": true }
+  { "Username": "AIRADSE.library@airads.ac.ke", "IsActive": true },
+  { "Username": "bookspasscode@login.ke", "IsActive": true },
+  { "Username": "sottihealthsciences@gmail.com", "IsActive": true },
+  { "Username": "infodavina@gmail.com", "IsActive": true },
+  { "Username": "jandigwa@yahoo.co.uk", "IsActive": true },
+  { "Username": "library@kemu.ac.ke", "IsActive": true },
+  { "Username": "tricentmedical16@gmail.com", "IsActive": true },
+  { "Username": "airadscollegelibrary@gmail.com", "IsActive": true },
+  { "Username": "airadslibrarybooks@gmail.com", "IsActive": true },
+  { "Username": "cmcqualityassurance10@mail.com", "IsActive": true },
+  { "Username": "airadscmc@gmail.com", "IsActive": true },
+  { "Username": "sottechnicaltraininginstitute@gmail.com", "IsActive": true },
+  { "Username": "sotnutrition24@gmail.com", "IsActive": true },
+  { "Username": "sotlibrary24@gmail.com", "IsActive": true },
+  { "Username": "lily.masinde@kemu.ac.ke", "IsActive": true },
+  { "Username": "library@kemu.ac.ke", "IsActive": true }
 ]
