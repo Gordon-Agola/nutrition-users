@@ -1,0 +1,4 @@
+[
+  { "Username": "user1", "Password": "1111", "IsActive": true },
+  { "Username": "user2", "Password": "2222", "IsActive": true }
+]
